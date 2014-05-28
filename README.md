@@ -2,6 +2,11 @@
 
 I needed a montage of profile pictures for a web project I was working on. Sadly, I couldn't find anything to generate one for me, so I wrote this one.
 
+Here's an example!
+
+![example
+montage](https://raw.githubusercontent.com/timcheadle/faceblender/master/example.jpg)
+
 ## Installation
 
 Just clone the repo and install necessary gems with `bundle`.
