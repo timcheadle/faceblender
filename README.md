@@ -27,6 +27,17 @@ Just run the app.
 
 It will spit out an image called `faceblend.jpg`
 
+### Customizing dimensions
+
+For now, the only way to customize the image dimensions is to edit the
+script. Find these lines at the top and change them:
+
+```ruby
+IMAGE_WIDTH = 1400
+IMAGE_HEIGHT = 500
+```
+
+
 ## Thanks
 
-Huge thanks @calebogden for making [UI Faces](http://uifaces.com) and everyone who contributed their photos!
+Huge thanks to [@calebogden](https://twitter.com/calebogden) for making [UI Faces](http://uifaces.com) and everyone who contributed their photos!
